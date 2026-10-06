@@ -1,0 +1,1 @@
+Ele precisa estar em ordem pois o arquiivo é lido nesta ordem o que pode confundir ferramentas de acessibilidade e confundir o leitor na hora da leitura.
